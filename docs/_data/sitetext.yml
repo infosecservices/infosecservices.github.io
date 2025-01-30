@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Protecting Your Web Applications – For Free!
-    text: It's Nice To Meet You
-    button: Stronger Security. Zero Cost. Get Your Web App Tested Today!
+    title: Protecting Your Web Applications For Free!
+    text: Stronger Security. Zero Cost. Get Your Web App Tested Today!
+    button: More Informaion
     buttonlink: "#services"
 
   services:

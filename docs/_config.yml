@@ -20,7 +20,7 @@ baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 title      : InfoSecServices
 email      : webkafle[@]gmail.com #this is also the email contact forms will go to
 description: "Offering free web application security assessments to help small businesses, startups, and non-profits protect against cyber threats."
-author     : Your Name
+author     : Shiva Kafle
  logo:     #optional, defaults to site title
    path: assets\img\logo.jpg
    height: 60 #height in px, defaults to 52px
