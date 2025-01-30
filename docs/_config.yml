@@ -18,7 +18,7 @@ url    : "https://infosecservices.github.io" # the base hostname & protocol for 
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : InfoSecServices
-email      : webkafle[@]gmail.com #this is also the email contact forms will go to
+email      : webkafle@gmail.com #this is also the email contact forms will go to
 description: "Offering free web application security assessments to help small businesses, startups, and non-profits protect against cyber threats."
 author     : Shiva Kafle
  logo:     #optional, defaults to site title
