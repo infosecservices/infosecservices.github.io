@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: "Protecting Your Web Applications For Free!"
-    text: "Stronger Security. Zero Cost. Get Your Web App Tested Today"
+    text: "Get Your Web App Tested Today"
     button: More Informaion
     buttonlink: "#services"
 
