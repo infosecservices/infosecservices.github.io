@@ -18,18 +18,24 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Security Audits"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Web App Security"
+        desc: "Comprehensive security assessments to identify and mitigate vulnerabilities in web applications for organizations."
+        icon: fa fa-shield
+      - title: "Free Penetration Testing"
+        desc: "Helping non-profits and small businesses secure their digital assets through ethical hacking and security best practices."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Secure Code Review"
+        desc: "Analyzing source code to detect security flaws and provide actionable recommendations for developers."
+        icon: fa fa-code
+      - title: "Risk & Compliance"
+        desc: "Guiding organizations to meet security standards and regulatory compliance through risk assessments."
+        icon: fa fa-arrow-circle-o-left
+      - title: "Security Awareness"
+        desc: "Educating teams on cybersecurity threats, secure coding, and best practices to minimize risks."
+        icon: fa fa-graduation-cap
 
   portfolio:
     title: "Portfolio"
